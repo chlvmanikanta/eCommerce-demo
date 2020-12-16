@@ -1,0 +1,88 @@
+{
+    "products": [
+        {
+            "id": "1",
+            "name": "Shirt 1",
+            "description": "It's a full sleeve blue Shirt. Made of 100% cotton.",
+            "price": 300,
+            "image": "shirt.png"
+        },
+        {
+            "id": "2",
+            "name": "Shirt 2",
+            "description": "It's a full sleeve blue Shirt. Made of 100% cotton.",
+            "price": 400,
+            "image": "shirt.png"
+        },
+        {
+            "id": "3",
+            "name": "Shirt 3",
+            "description": "It's a full sleeve blue Shirt. Made of 100% cotton.",
+            "price": 350,
+            "image": "shirt.png"
+        },
+        {
+            "id": "4",
+            "name": "Shirt 4",
+            "description": "It's a full sleeve blue Shirt. Made of 100% cotton.",
+            "price": 400,
+            "image": "shirt.png"
+        },
+        {
+            "id": "5",
+            "name": "Shirt 5",
+            "description": "It's a full sleeve blue Shirt. Made of 100% cotton.",
+            "price": 500,
+            "image": "shirt.png"
+        },
+        {
+            "id": "6",
+            "name": "Shirt 6",
+            "description": "It's a full sleeve blue Shirt. Made of 100% cotton.",
+            "price": 450,
+            "image": "shirt.png"
+        },
+        {
+            "id": "7",
+            "name": "Shirt 7",
+            "description": "It's a full sleeve blue Shirt. Made of 100% cotton.",
+            "price": 500,
+            "image": "shirt.png"
+        },
+        {
+            "id": "8",
+            "name": "Shirt 8",
+            "description": "It's a full sleeve blue Shirt. Made of 100% cotton.",
+            "price": 400,
+            "image": "shirt.png"
+        },
+        {
+            "id": "9",
+            "name": "Shirt 9",
+            "description": "It's a full sleeve blue Shirt. Made of 100% cotton.",
+            "price": 300,
+            "image": "shirt.png"
+        },
+        {
+            "id": "10",
+            "name": "Shirt 10",
+            "description": "It's a full sleeve blue Shirt. Made of 100% cotton.",
+            "price": 350,
+            "image": "shirt.png"
+        },
+        {
+            "id": "11",
+            "name": "Shirt 11",
+            "description": "It's a full sleeve blue Shirt. Made of 100% cotton.",
+            "price": 450,
+            "image": "shirt.png"
+        },
+        {
+            "id": "12",
+            "name": "Shirt 12",
+            "description": "It's a full sleeve blue Shirt. Made of 100% cotton.",
+            "price": 300,
+            "image": "shirt.png"
+        }
+    ]
+}
